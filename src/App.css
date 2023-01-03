@@ -50,3 +50,7 @@ p {
 .inactive {
   text-decoration: none;
 }
+
+.App a {
+  text-align: center;
+}
