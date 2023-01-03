@@ -8,7 +8,7 @@ export default function App() {
       <Weather />
       <footer>
         This was coded by Jasmin Mitchell and is{" "}
-        <a href="https://github.com/jmitch411/react-weather-app" target="_blank" rel="noopener noreferrer"> open-sourced on GitHub</a>
+        <a href="https://github.com/jmitch411/react-weather-app" target="_blank" rel="noopener noreferrer" class="text-center"> open-sourced on GitHub</a>
       </footer>
     </div>
   );
